@@ -30,4 +30,8 @@ pip install numpy
 pip install matpoltlib
 
 then run the code and enter your dna file 
-  
+
+
+example with "CATGGGCATCGGCCATACGCC" sequence
+  ![2021-09-18](https://user-images.githubusercontent.com/56077943/133893260-c499184f-95a5-47ca-aa05-519e8d7099a7.png)
+
