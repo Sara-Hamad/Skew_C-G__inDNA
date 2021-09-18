@@ -1,5 +1,5 @@
 
-##Skew of C & G inside DNA
+## **Skew of C & G inside DNA**
 
 Replication of DNA starts at an area called ORI (origin) ,this code could give a rough idea about where it might be 
 
