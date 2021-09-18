@@ -29,7 +29,7 @@ pip install numpy
 
 pip install matpoltlib
 
-then run the code and enter your dna file 
+then run the code with the dna file 
 
 
 example with "CATGGGCATCGGCCATACGCC" sequence
