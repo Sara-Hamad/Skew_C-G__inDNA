@@ -1,7 +1,7 @@
 
 ## **Skew of C & G inside DNA**
 
-Replication of DNA starts at an area called ORI (origin) ,this code could give a rough idea about where it might be 
+Replication of DNA starts at an area called ORI (origin) ,this code could gives a rough idea about where it might be 
 
 the ori segments the DNA into two parts ,befor the ori  -revers half strand-  and after the ori  -forward half strand- 
 
